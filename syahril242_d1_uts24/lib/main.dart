@@ -6,7 +6,7 @@ import 'package:syahril242_d1_uts24/ui/d1/NamaTableOrang.dart';
 import 'package:syahril242_d1_uts24/ui/d1/appBar.dart';
 import 'package:syahril242_d1_uts24/ui/d1/dataMahasiswa.dart';
 import 'package:syahril242_d1_uts24/ui/d1/test1.dart';
-
+// test
 void main() {
   runApp(const MainApp());
 }
