@@ -1,0 +1,2117 @@
+{
+   "checksum": "9556d182c44689588c3b641682ca83e2",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13344477898948828",
+            "date_last_used": "13343292922639728",
+            "guid": "0def2296-aca1-430e-b6de-641789cda787",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Gmail",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService"
+         }, {
+            "date_added": "13355533832261216",
+            "date_last_used": "0",
+            "guid": "40c15951-4f88-4d0f-b7f5-789da2df638e",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Drive",
+            "type": "url",
+            "url": "https://drive.google.com/drive/my-drive"
+         }, {
+            "date_added": "13344477898949841",
+            "date_last_used": "13355704388567956",
+            "guid": "d747317c-a284-4997-bc43-c72fdf5cd209",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://youtube.com/"
+         }, {
+            "date_added": "13355536585465510",
+            "date_last_used": "13355667671716859",
+            "guid": "d2df376c-a3b4-40ce-8cc8-9771added673",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "E-Learning | Bumigora",
+            "type": "url",
+            "url": "https://e-learning.universitasbumigora.ac.id/my/"
+         }, {
+            "date_added": "13341470916025037",
+            "date_last_used": "0",
+            "guid": "d8cf80e4-b593-4bae-8512-28d09202b715",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Translate",
+            "type": "url",
+            "url": "https://translate.google.com/"
+         }, {
+            "date_added": "13344477900309809",
+            "date_last_used": "0",
+            "guid": "90eb0cd4-b9c5-4600-bda4-b917ed5ccf26",
+            "id": "10",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Terjemahkan",
+            "type": "url",
+            "url": "https://translate.google.com/"
+         }, {
+            "date_added": "13341470914034044",
+            "date_last_used": "0",
+            "guid": "fabcfc5c-6abe-4439-a575-72999941d89a",
+            "id": "11",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Maps",
+            "type": "url",
+            "url": "https://maps.google.com/"
+         }, {
+            "date_added": "13341470915484048",
+            "date_last_used": "0",
+            "guid": "cbb2c360-cbcf-4557-aba5-7012f3c1ba62",
+            "id": "12",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "News",
+            "type": "url",
+            "url": "https://news.google.com/"
+         }, {
+            "date_added": "13344477900051692",
+            "date_last_used": "0",
+            "guid": "fbba5b59-85bb-4500-be97-f0331cad1c66",
+            "id": "13",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Berita",
+            "type": "url",
+            "url": "https://news.google.com/"
+         } ],
+         "date_added": "13360113786882655",
+         "date_last_used": "0",
+         "date_modified": "13355536585465510",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13345299020707793",
+            "date_last_used": "0",
+            "guid": "b6475226-55e5-4d7b-8175-e65f9ffcf66e",
+            "id": "14",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(5351) Are you just now noticing? - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=PHbpjT1kouI"
+         }, {
+            "date_added": "13345299083598983",
+            "date_last_used": "0",
+            "guid": "42a53902-041b-4654-a1ce-1efe05021aa7",
+            "id": "15",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(5351) you will never have this - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=Ob7lueNz2oY"
+         }, {
+            "date_added": "13345335512873569",
+            "date_last_used": "0",
+            "guid": "6929df1d-8233-427f-9f12-ec8bb2bfef47",
+            "id": "16",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(5807) When You Prefer Windows but Love MacOS Design - THIS HAPPENS - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=7mHA81Iz4HA"
+         } ],
+         "date_added": "13360113786882658",
+         "date_last_used": "0",
+         "date_modified": "13345335512873569",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13272190279406818",
+            "date_last_used": "0",
+            "guid": "8b509816-617e-4f56-bd61-1c45583b940c",
+            "id": "17",
+            "name": "Finn's ORBS v1.0 edit.osk",
+            "type": "url",
+            "url": "https://www.dropbox.com/s/nscn09vns6ho1zm/Finn%27s%20ORBS%20v1.0%20edit.osk?dl=0"
+         }, {
+            "date_added": "13303743954564678",
+            "date_last_used": "0",
+            "guid": "95b21938-05dc-4a97-ab44-a806536e372e",
+            "id": "18",
+            "name": "MP3 Juice - MP3 Music Download Free 320Kbps | MP3Juice",
+            "type": "url",
+            "url": "https://mp3juice.me/4-downloader/"
+         }, {
+            "date_added": "13303744450074646",
+            "date_last_used": "0",
+            "guid": "0b056c83-e156-4cdc-ab76-9dcb8cc1a2e3",
+            "id": "19",
+            "name": "Media.io - Online Free Video Editor, Converter, Compressor",
+            "type": "url",
+            "url": "https://www.media.io/"
+         }, {
+            "date_added": "13312640540396702",
+            "date_last_used": "0",
+            "guid": "9b2b8bcd-593c-4e77-acf8-5abccd56a168",
+            "id": "20",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Various Artists - 5K COURSE Level : Stellium · info beatmap | osu!",
+            "type": "url",
+            "url": "https://osu.ppy.sh/beatmapsets/1376505#mania/2844990"
+         }, {
+            "date_added": "13312640544335991",
+            "date_last_used": "0",
+            "guid": "31bce5c5-9544-4e86-8de0-3a18543ae31b",
+            "id": "21",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "xi - 5K Xi Song Collection · info beatmap | osu!",
+            "type": "url",
+            "url": "https://osu.ppy.sh/beatmapsets/484810#mania/1034053"
+         }, {
+            "date_added": "13312640546873750",
+            "date_last_used": "0",
+            "guid": "1eb2cdc7-35c0-4e13-b9a9-c5516f456e48",
+            "id": "22",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Various Artists - 5K Super Eazy Package · info beatmap | osu!",
+            "type": "url",
+            "url": "https://osu.ppy.sh/beatmapsets/453527#mania/972525"
+         }, {
+            "date_added": "13312640549771629",
+            "date_last_used": "0",
+            "guid": "96b85de1-f8e3-415b-916b-8505f7a16920",
+            "id": "23",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Various - 5K Madness Volume II · info beatmap | osu!",
+            "type": "url",
+            "url": "https://osu.ppy.sh/beatmapsets/403078#mania/876696"
+         }, {
+            "date_added": "13312640552558424",
+            "date_last_used": "0",
+            "guid": "19f85307-6e54-4aff-a02d-57b5ba7ab260",
+            "id": "24",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Various - 5K Madness by Happy15 · info beatmap | osu!",
+            "type": "url",
+            "url": "https://osu.ppy.sh/beatmapsets/323843#mania/719666"
+         }, {
+            "date_added": "13312640555014481",
+            "date_last_used": "0",
+            "guid": "623f5153-e3e9-458e-aa5d-68e6d473883b",
+            "id": "25",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "- squartatrice [5key Aery] · info beatmap | osu!",
+            "type": "url",
+            "url": "https://osu.ppy.sh/beatmapsets/114683#mania/296796"
+         }, {
+            "date_added": "13312710835983184",
+            "date_last_used": "0",
+            "guid": "be730635-7eb3-4f83-a774-d266c48718f7",
+            "id": "26",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Varazslo - Shifting Portals (feat. Deercognito) · info beatmap | osu!",
+            "type": "url",
+            "url": "https://osu.ppy.sh/beatmapsets/1883548#mania/3877931"
+         }, {
+            "date_added": "13312985918477011",
+            "date_last_used": "0",
+            "guid": "caaf37bc-17bc-4bc9-8b43-96d29faa3ab8",
+            "id": "27",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Fubuki Shirakami - Tomorrow will be a better day · info beatmap | osu!",
+            "type": "url",
+            "url": "https://osu.ppy.sh/beatmapsets/1857674#mania/3818037"
+         }, {
+            "date_added": "13315227059419356",
+            "date_last_used": "0",
+            "guid": "70b9db7c-20be-4fbb-82f2-7da9745f1132",
+            "id": "28",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Futoku no Guild (Immoral Guild) - MyAnimeList.net",
+            "type": "url",
+            "url": "https://myanimelist.net/anime/51212/Futoku_no_Guild"
+         }, {
+            "date_added": "13315573503484943",
+            "date_last_used": "0",
+            "guid": "d8044ae7-e6aa-443e-babb-338b1b018f15",
+            "id": "29",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "mitsukiyo (feat.Narae) - Mew Mew World · info beatmap | osu!",
+            "type": "url",
+            "url": "https://osu.ppy.sh/beatmapsets/703546#mania/1489347"
+         }, {
+            "date_added": "13315573507380775",
+            "date_last_used": "0",
+            "guid": "e1628ffb-508d-4eee-abbd-9d24b0d2c7d3",
+            "id": "30",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Search osu! beatmaps - osu!search",
+            "type": "url",
+            "url": "https://osusearch.com/search/?artist=Mitsukiyo&modes=Mania"
+         }, {
+            "date_added": "13316769247918728",
+            "date_last_used": "0",
+            "guid": "bc84ea75-0eda-4911-be1a-71e8f9fc7bd7",
+            "id": "31",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "SillyFangirl (Gado-gado) Mania Circle.osk - Google Drive",
+            "type": "url",
+            "url": "https://drive.google.com/file/d/1hTgv-NkXFI4rRfYpfB3HYvbBWUyHowsN/view"
+         }, {
+            "date_added": "13316769251708139",
+            "date_last_used": "0",
+            "guid": "a1827a65-8f0b-4ad8-917a-4038a609c7eb",
+            "id": "32",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "10 Headset Gaming Murah yang Terbaik (Terbaru Tahun 2022) | mybest",
+            "type": "url",
+            "url": "https://my-best.id/139271"
+         }, {
+            "date_added": "13316934038091160",
+            "date_last_used": "0",
+            "guid": "ca773c70-e67e-405d-82e1-84103f43e080",
+            "id": "33",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Lycoris Recoil [BATCH] Subtitle Indonesia | Otaku Desu",
+            "type": "url",
+            "url": "https://otakudesu.bid/batch/lr-batch-sub-indo/"
+         }, {
+            "date_added": "13322522174450371",
+            "date_last_used": "0",
+            "guid": "477f98f4-ed09-4dbe-931f-655e74c5a0ca",
+            "id": "34",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Perkembangan Agama Islam di Benua Asia - Your All in One Event Partner Solution",
+            "type": "url",
+            "url": "https://ex-school.com/artikel/perkembangan-agama-islam-di-benua-asia"
+         }, {
+            "date_added": "13322649215159693",
+            "date_last_used": "0",
+            "guid": "1a2ada12-951b-48ec-a376-62e2b9ec7ef8",
+            "id": "35",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Cara Kalibrasi Baterai Android Termudah dalam 10 Langkah",
+            "type": "url",
+            "url": "https://tekno.sindonews.com/read/864943/122/cara-kalibrasi-baterai-android-termudah-dalam-10-langkah-1661306891"
+         }, {
+            "date_added": "13323307587954272",
+            "date_last_used": "0",
+            "guid": "cc6e7a5e-f5d7-4983-bd6e-4e034355113f",
+            "id": "36",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "[Lirik+Terjemahan] Nano feat. MY FIRST STORY - Savior of Song (Penyelamat Lagu) | Kazelyrics",
+            "type": "url",
+            "url": "https://www.kazelyrics.com/2013/10/lirikterjemahan-nano-feat-my-first.html?m=1"
+         }, {
+            "date_added": "13323309119749388",
+            "date_last_used": "0",
+            "guid": "95f1578d-6c5e-4dc4-af8f-e1f2eaf3d6b7",
+            "id": "37",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "url verify online - Penelusuran Google",
+            "type": "url",
+            "url": "https://www.google.com/search?q=url+verify+online&client=ms-android-samsung-gj-rev1&ei=mv4QZL3iFoC-3LUPlualuAo&oq=url+verify&gs_lcp=ChNtb2JpbGUtZ3dzLXdpei1zZXJwEAEYATIHCAAQgAQQEzIHCAAQgAQQEzIICAAQFhAeEBMyCAgAEBYQHhATMggIABAWEB4QEzIICAAQFhAeEBMyCAgAEBYQHhATMggIABAWEB4QEzoKCAAQRxDWBBCwAzoHCAAQsAMQQzoCCCk6BQgAEIAEOgcIABCABBAKOggIABCABBCxAzoICAAQsQMQgwE6BwgpEIAEEBM6CAguEI8BEOoCOggIABCPARDqAjoLCC4QgAQQsQMQgwE6CwgAEIAEELEDEIMBOgQIABBDOgUILhCABDoHCAAQsQMQQzoGCAAQFhAeSgQIQRgAUI0LWNJeYMpqaAJwAHgBgAGPAYgBkhGSAQQxNC44mAEAoAEBsAESyAEKwAEB&sclient=mobile-gws-wiz-serp"
+         }, {
+            "date_added": "13323731736805580",
+            "date_last_used": "0",
+            "guid": "07deb91a-57b6-4c73-b07c-1af91f9c2e46",
+            "id": "38",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Setting Up A Charge Limit on an Android Phone | No Root | IFTTT & MacroDroid - YouTube",
+            "type": "url",
+            "url": "https://m.youtube.com/watch?v=iDf_Xr_E0oI"
+         }, {
+            "date_added": "13323732984162340",
+            "date_last_used": "0",
+            "guid": "b4d435d4-0521-4557-997a-24e4cd5bfcd4",
+            "id": "39",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "ROOT ANDROID TERBARU TANPA PC/TWRP - YouTube",
+            "type": "url",
+            "url": "https://m.youtube.com/watch?v=hvQj0ZNIpFk"
+         }, {
+            "date_added": "13323733162975528",
+            "date_last_used": "0",
+            "guid": "7b10a9d4-a5c3-4ad9-8d45-dfa1bdc3760a",
+            "id": "40",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "ACC Settings Makes it Easy to Install and Setup Advanced Charging Controller on Android - YouTube",
+            "type": "url",
+            "url": "https://m.youtube.com/watch?v=LW80shNiwFs"
+         }, {
+            "date_added": "13323826346107470",
+            "date_last_used": "0",
+            "guid": "ccf0b3c9-d2e2-4946-a424-4590422148dd",
+            "id": "41",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "WorldBox MOD APK v0.21.0 (Tidak terkunci) - Moddroid",
+            "type": "url",
+            "url": "https://id.moddroid.com/games/simulation/worldbox/"
+         }, {
+            "date_added": "13323826789748367",
+            "date_last_used": "0",
+            "guid": "baaa5167-5c67-4f52-9bfe-d52bb428a1e9",
+            "id": "42",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Worldbox MOD APK v.0.21.0 by LIGHT AND DARK",
+            "type": "url",
+            "url": "https://www.mediafire.com/file/9tjld6085vh2pju/Worldbox+MOD+APK+v.0.21.0+by+LIGHT+AND+DARK.apk/file"
+         }, {
+            "date_added": "13324012189418481",
+            "date_last_used": "0",
+            "guid": "23d3f635-bb2b-4dc3-8422-65db6aecef89",
+            "id": "43",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "how to set adb command permanent - Penelusuran Google",
+            "type": "url",
+            "url": "https://www.google.com/search?q=how+to+set+adb+command+permanent&rlz=1C1GCEA_enID1034ID1034&ie=UTF-8"
+         }, {
+            "date_added": "13324012191746411",
+            "date_last_used": "0",
+            "guid": "ba2c42a3-dc0d-4f18-9468-f738a15a9a0b",
+            "id": "44",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "ADB command is not permanent - Solved | Android Forums",
+            "type": "url",
+            "url": "https://androidforums.com/threads/adb-command-is-not-permanent-solved.1335778/"
+         }, {
+            "date_added": "13324012193714545",
+            "date_last_used": "0",
+            "guid": "a879d087-cdf0-4fb8-97f9-393943f17052",
+            "id": "45",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "SELinuxModeChanger | F-Droid - Free and Open Source Android App Repository",
+            "type": "url",
+            "url": "https://f-droid.org/en/packages/com.mrbimc.selinux/"
+         }, {
+            "date_added": "13324012195058193",
+            "date_last_used": "0",
+            "guid": "2bb98bb6-2413-42ca-89bf-1040648e45da",
+            "id": "46",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "[APP][Root][4.2+]SELinuxModeChanger v10.0 :: [24.07.2017] | XDA Forums",
+            "type": "url",
+            "url": "https://forum.xda-developers.com/t/app-root-4-2-selinuxmodechanger-v10-0-24-07-2017.2524485/"
+         }, {
+            "date_added": "13324040305162698",
+            "date_last_used": "0",
+            "guid": "9ce569c0-d0c7-4727-9398-c2fb2bfa3d44",
+            "id": "47",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "doa puasa - Penelusuran Google",
+            "type": "url",
+            "url": "https://www.google.com/search?q=doa+puasa&client=ms-android-samsung-gj-rev1&ei=XCccZOaYBqGSseMPjtSdqAk&oq=doa+puasa&gs_lcp=ChNtb2JpbGUtZ3dzLXdpei1zZXJwEAMyDQgAEIoFELEDEIMBEEMyDQgAEIoFELEDEIMBEEMyBwgAEIoFEEMyBwgAEIoFEEMyBwgAEIoFEEMyBwgAEIoFEEMyBwgAEIoFEEMyBwgAEIoFEEM6CggAEEcQ1gQQsAM6CggAEIoFELADEEM6DQgpEIoFELEDEIMBEEM6CwgAEIoFELEDEIMBOgUIABCABDoCCClKBAhBGABQzAdYpSFg4iJoAXAAeACAAcwEiAHaEpIBCTEuNS40LjUtMZgBAKABAcgBEcABAQ&sclient=mobile-gws-wiz-serp"
+         }, {
+            "date_added": "13324040327143361",
+            "date_last_used": "0",
+            "guid": "ddd5b935-aa1f-4135-a90d-c1b57189d5dc",
+            "id": "48",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "doa sesudah puasa - Penelusuran Google",
+            "type": "url",
+            "url": "https://www.google.com/search?q=doa+sesudah+puasa&client=ms-android-samsung-gj-rev1&ei=eSccZNXpLPieseMPz7myqAU&oq=doa+sesudah+puasa&gs_lcp=ChNtb2JpbGUtZ3dzLXdpei1zZXJwEAMyAggpMg0IABCABBCxAxCDARAKMgsIABCKBRCxAxCDATILCAAQigUQsQMQgwEyDQgAEIAEELEDEIMBEAoyDQgAEIAEELEDEIMBEAoyCwgAEIoFELEDEIMBMg0ILhCABBCxAxCDARAKMg0IABCABBCxAxCDARAKOgUIKRCgAToLCAAQgAQQsQMQgwE6DQgAEIoFELEDEIMBEEM6BwguEIoFEENKBAhBGABQtQFY4xRgvBVoAHAAeACAAbEHiAHtGZIBBTUtMS4zmAEAoAEBwAEB&sclient=mobile-gws-wiz-serp"
+         }, {
+            "date_added": "13324170521571138",
+            "date_last_used": "0",
+            "guid": "39e0a747-1e51-47df-bd8c-93a2e4f11652",
+            "id": "49",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Maaya Uchida - Junjou Emotional Lyrics 歌詞 | Isekai wa Smartphone to Tomo ni. (In Another World With My Smartphone) Ending Theme",
+            "type": "url",
+            "url": "https://www.animesonglyrics.com/isekai-wa-smartphone-to-tomo-ni/junjou-emotional"
+         }, {
+            "date_added": "13324216807285494",
+            "date_last_used": "0",
+            "guid": "52a15ee5-b24e-450e-ad17-b572c58c7467",
+            "id": "50",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Osake wa Fuufu ni Natte kara (Love is Like a Cocktail) - MyAnimeList.net",
+            "type": "url",
+            "url": "https://myanimelist.net/anime/35484/Osake_wa_Fuufu_ni_Natte_kara"
+         }, {
+            "date_added": "13324355597170989",
+            "date_last_used": "0",
+            "guid": "619bfd80-75e7-40c5-b97d-b7cc6269415a",
+            "id": "51",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Elze, Linze, Yae, Yumina, Sushie, Leen - Junjou Emotional · info beatmap | osu!",
+            "type": "url",
+            "url": "https://osu.ppy.sh/beatmapsets/638878#mania/1355094"
+         }, {
+            "date_added": "13324383649532255",
+            "date_last_used": "0",
+            "guid": "54bc5537-df81-4d81-bdf8-1b37e2c2357a",
+            "id": "52",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Pengumuman SNBP 2023",
+            "type": "url",
+            "url": "https://snbp.ipb.ac.id/"
+         }, {
+            "date_added": "13325755235405517",
+            "date_last_used": "0",
+            "guid": "f5e3d353-9e4a-4369-82f6-813b8d9831d6",
+            "id": "53",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Kompres PDF secara online. Kualitas PDF yang sama, ukuran file lebih kecil",
+            "type": "url",
+            "url": "https://www.ilovepdf.com/id/mengompres-pdf"
+         }, {
+            "date_added": "13328361645004948",
+            "date_last_used": "0",
+            "guid": "0cace97a-02dd-410d-a7e4-32aee49f5207",
+            "id": "54",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Download playlist: Belajar Python Bahasa Indonesia [Versi Baru] - 10Downloader",
+            "type": "url",
+            "url": "https://10downloader.com/playlist?v=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DiA8lLwmtKQM%26list%3DPLZS-MHyEIRo59lUBwU-XHH7Ymmb04ffOY&lang=en&type=video"
+         }, {
+            "date_added": "13328361659148205",
+            "date_last_used": "0",
+            "guid": "4efffc35-13a0-4ab3-8dbf-03b96c2d79aa",
+            "id": "55",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "youtube playlist downloader - Penelusuran Google",
+            "type": "url",
+            "url": "https://www.google.com/search?q=youtube+playlist+downloader&rlz=1C1GCEA_enID1034ID1034&ie=UTF-8"
+         }, {
+            "date_added": "13329988821563357",
+            "date_last_used": "0",
+            "guid": "17061ec0-991f-4935-a128-e14f7b65e6a3",
+            "id": "56",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(7861) How I Programmed My Own AI Girlfriend - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=dKFnJCtcfMk"
+         }, {
+            "date_added": "13329988919921494",
+            "date_last_used": "0",
+            "guid": "24930603-866f-45b4-bfed-80cda5fa80ed",
+            "id": "57",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(7861) NVIDIA Made a CPU.. I’m Holding It. - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=It9D08W8Z7o"
+         }, {
+            "date_added": "13330184852286747",
+            "date_last_used": "0",
+            "guid": "942361bb-e1d3-4083-aa47-8b0c48d29f62",
+            "id": "58",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "SOLO CAMPING HUJAN DERAS - TIDUR DI BAWAH TANAH TEPI SUNGAI KALIMANTAN - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=ZnUDsHyIadA"
+         }, {
+            "date_added": "13330184861661338",
+            "date_last_used": "0",
+            "guid": "5699fb97-9f86-4a1b-a62b-bc1850013b84",
+            "id": "59",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "SOLO RANK OPEN MIC TEAM 😂(Emotional damage) - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=qAIRHNPTmoo"
+         }, {
+            "date_added": "13330184930748893",
+            "date_last_used": "0",
+            "guid": "d8e485a4-beb9-4f79-8274-25deed96e596",
+            "id": "60",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(9738) Mc Overpower Diusir Karena Lemah Lalu Menjadi Rank Ssr Paling Kuat - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=MVtB6jUnKWM"
+         }, {
+            "date_added": "13330184999667973",
+            "date_last_used": "0",
+            "guid": "47b750dc-da0f-4489-b84c-ed9f0f7fa90b",
+            "id": "61",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "When you're emotionally dead inside and play horror games - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=nzL6pihbM5Q"
+         }, {
+            "date_added": "13330185040621063",
+            "date_last_used": "0",
+            "guid": "676e7cd1-2cd5-44a1-9e77-bcad5b5687a7",
+            "id": "62",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(9741) I fed the starving little girls... 15 years later... [Manga Dub] - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=JnOptYdU4r8"
+         }, {
+            "date_added": "13330522838211699",
+            "date_last_used": "0",
+            "guid": "6d3a3f3e-1210-4c6b-a3ca-f53fb08eba1e",
+            "id": "63",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(1499) Delon Dior - Bottega - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=vaOeH5omqNs"
+         }, {
+            "date_added": "13330522880755799",
+            "date_last_used": "0",
+            "guid": "8de9666c-89ec-4fb8-8048-d04e0bd5b52e",
+            "id": "64",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "kage no jitsuryokusha soundtrack - Penelusuran Google",
+            "type": "url",
+            "url": "https://www.google.com/search?q=kage+no+jitsuryokusha+soundtrack&rlz=1C1GCEA_enID1034ID1034&ie=UTF-8"
+         }, {
+            "date_added": "13330539092314705",
+            "date_last_used": "0",
+            "guid": "ed4db90f-44d3-4aa8-ae7e-f4cc63b8154b",
+            "id": "65",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(1779) Minecraft AI - NVIDIA uses GPT-4 to create a SELF-IMPROVING 🤯 autonomous agent. - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=7yI4yfYftfM"
+         }, {
+            "date_added": "13330564903574324",
+            "date_last_used": "0",
+            "guid": "ae28d34a-f237-450b-a1b0-ad9031be92f6",
+            "id": "66",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Making a mod menu is easy! (Here's how to make one with Python and Cheat Engine) - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=Ot7SeZvfBA0"
+         }, {
+            "date_added": "13330567747969416",
+            "date_last_used": "0",
+            "guid": "6adc72e4-3b68-4f76-8f21-65c964d6f782",
+            "id": "67",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(1) Nothing Surprises Me - This Ones For The Anti Repairers - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=UXf791fUsP4"
+         }, {
+            "date_added": "13330570202128951",
+            "date_last_used": "0",
+            "guid": "6e3cef23-c2df-4866-8cf0-ec46174b5c8e",
+            "id": "68",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(11) Seina - Starlight Wonder (スターライト・ワンダー) - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=C9ukdzxncGg"
+         }, {
+            "date_added": "13330663983588526",
+            "date_last_used": "0",
+            "guid": "4d4a4f7a-4348-4513-8fbe-208a66304e28",
+            "id": "69",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "YouTube MP3 Playlist Downloader Online - Loader.to",
+            "type": "url",
+            "url": "https://en.loader.to/4/"
+         }, {
+            "date_added": "13330667139070357",
+            "date_last_used": "0",
+            "guid": "b5fe60b8-90bb-41ce-ab91-a3da7bc9e8d4",
+            "id": "70",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "5 Tools AI Bikin Kerjaan 5x Lebih Cepet - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=L1WaVEi7ePI"
+         }, {
+            "date_added": "13330667885420820",
+            "date_last_used": "0",
+            "guid": "eabff158-aba9-451c-8bc3-0822af87d00e",
+            "id": "71",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Apple Vision Pro Impressions! - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=OFvXuyITwBI"
+         }, {
+            "date_added": "13330755350658979",
+            "date_last_used": "0",
+            "guid": "54cbfc85-e5f7-4589-95b3-e7f74304e0d2",
+            "id": "72",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(823) Ascaveth - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/@Ascaveth/videos"
+         }, {
+            "date_added": "13330778314658735",
+            "date_last_used": "0",
+            "guid": "2db3ffbe-cec2-4d93-8d02-4bd593eaf0dc",
+            "id": "73",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(119) Announcing Windows Copilot - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=FCfwc-NNo30"
+         }, {
+            "date_added": "13330778671408564",
+            "date_last_used": "0",
+            "guid": "1b33273d-aa6a-42ba-8bec-a01069e46ad7",
+            "id": "74",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Jinjin - Midnight Musing · info beatmap | osu!",
+            "type": "url",
+            "url": "https://osu.ppy.sh/beatmapsets/1980200#mania/4111788"
+         }, {
+            "date_added": "13330779107836208",
+            "date_last_used": "0",
+            "guid": "ed1c6b2b-af83-4248-8f73-5bce0cfdd1ef",
+            "id": "75",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "KARUT - Shooting Athletes · info beatmap | osu!",
+            "type": "url",
+            "url": "https://osu.ppy.sh/beatmapsets/1956332#mania/4062768"
+         }, {
+            "date_added": "13330868470049477",
+            "date_last_used": "0",
+            "guid": "7c1d774e-9407-4100-b5dd-22a600e4d74c",
+            "id": "76",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Japanese Translator | RomajiDesu",
+            "type": "url",
+            "url": "https://www.romajidesu.com/translator"
+         }, {
+            "date_added": "13331186609594824",
+            "date_last_used": "0",
+            "guid": "fbb43ac3-b58b-4d55-bb78-a2697cc3594a",
+            "id": "77",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Hiroyuki Sawano – Battle Continues 'Suite' | Epic Music | BEST Battle Music - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=nZNLJXBl9pw"
+         }, {
+            "date_added": "13331262549699963",
+            "date_last_used": "0",
+            "guid": "246e76fc-bf6d-4d45-aab0-1974f2f1df31",
+            "id": "78",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(1381) THE GAMING ON LINUX GUIDE: How to play anything: Steam, Epic, Ubisoft, Origin, Battle.net, GoG... - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=v9tb1gTTbJE"
+         }, {
+            "date_added": "13331393414154493",
+            "date_last_used": "0",
+            "guid": "441cb20f-cc9b-48ec-8306-8707fca5b7bc",
+            "id": "79",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Nakanohito Genome [Jikkyouchuu] (The Ones Within) - MyAnimeList.net",
+            "type": "url",
+            "url": "https://myanimelist.net/anime/37926/Nakanohito_Genome_Jikkyouchuu"
+         }, {
+            "date_added": "13331473447281517",
+            "date_last_used": "0",
+            "guid": "52beee28-270f-4670-b686-c764de9302b6",
+            "id": "80",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Saya dapat mengetik 81 kata per menit. Apakah Anda lebih cepat? - 10FastFingers.com",
+            "type": "url",
+            "url": "https://10fastfingers.com/share-badge/6_CD"
+         }, {
+            "date_added": "13331904661992205",
+            "date_last_used": "0",
+            "guid": "e2f095ba-96f3-4ffd-8885-c38d760662fc",
+            "id": "81",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(7058) Munou na Nana Ending \"Bakemono to Yobarete\" - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=PlGH63Kzhlw"
+         }, {
+            "date_added": "13331904676423350",
+            "date_last_used": "0",
+            "guid": "dc009f9a-9b95-4b2f-ba1a-e354f0bcdb0d",
+            "id": "82",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(7056) munou na nana ed - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/results?search_query=munou+na+nana+ed"
+         }, {
+            "date_added": "13332647858033029",
+            "date_last_used": "0",
+            "guid": "4269c6aa-4193-44da-8568-acb5636be2a4",
+            "id": "83",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Mbps to MB Converter Calculator - Colocation America",
+            "type": "url",
+            "url": "https://www.colocationamerica.com/mbps-to-mb-converter#:~:text=1%20megabyte%20(MB)%20is%20roughly,to%208%20megabits%20(mb)."
+         }, {
+            "date_added": "13332656334209728",
+            "date_last_used": "0",
+            "guid": "1a9c9fa0-2d1e-4384-95fd-f0397fd36594",
+            "id": "84",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "List of Top Public Recursive Name Servers · GitHub",
+            "type": "url",
+            "url": "https://gist.github.com/mutin-sa/5dcbd35ee436eb629db7872581093bc5"
+         }, {
+            "date_added": "13332750848197190",
+            "date_last_used": "0",
+            "guid": "25f4edb7-3cb0-45f3-b84e-6528f5304714",
+            "id": "85",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(759) Re Aoharu By: Nor Blue Archive - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=vHj5nmxnl34"
+         }, {
+            "date_added": "13332753785484925",
+            "date_last_used": "0",
+            "guid": "df6e824b-140d-4e32-a031-253054669ad2",
+            "id": "86",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "When you’re drawing alone at night. Calm Stasis - BGM Album Animation | theCecile x Isaak Wolf - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=mAHrJGER9XM"
+         }, {
+            "date_added": "13332754340693111",
+            "date_last_used": "0",
+            "guid": "4c75b331-ef4c-4e77-9a6c-ae3caf8b1b77",
+            "id": "87",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(778) Eternal Eclipse - Fate of the Fallen (Official Music Video) - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=IiAPEjKsxmw"
+         }, {
+            "date_added": "13332754774905511",
+            "date_last_used": "0",
+            "guid": "641e63a7-06d3-41df-ba2f-6b32a4275f4d",
+            "id": "88",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(778) Eternal Eclipse - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/@eternal-eclipse/videos"
+         }, {
+            "date_added": "13332754857544960",
+            "date_last_used": "0",
+            "guid": "a4417ca4-6742-4d39-8b92-f9cb2b8ee382",
+            "id": "89",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(779) The Phantom of the Opera - Prague Cello Quartet [Official video] - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=qpbX7SbXOtU"
+         }, {
+            "date_added": "13332755043209481",
+            "date_last_used": "0",
+            "guid": "bc815ca8-6fd1-40a6-93d6-2a3afa8d3ad0",
+            "id": "90",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(779) Aira - Blue Archive By: Mitsukiyo - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=hs3QwAufcOM"
+         }, {
+            "date_added": "13332839597067872",
+            "date_last_used": "0",
+            "guid": "3c20fa3d-3b3e-4b07-97f1-1b2cbb9524f5",
+            "id": "91",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(1456) Tutorial gambar anime otomatis dalam waktu 10 detik !! Gratis !! (Novel Ai But Private Server) - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=pSn8Q_jN4vk&t=319s"
+         }, {
+            "date_added": "13333245182808269",
+            "date_last_used": "0",
+            "guid": "314ed1e1-6477-4619-98c7-76087e3ac4ba",
+            "id": "92",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(837) ETERNAL ECLIPSE - Beautiful Dramatic Violin Orchestral Music Mix - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=967DBySw8QA"
+         }, {
+            "date_added": "13333271790918307",
+            "date_last_used": "0",
+            "guid": "1a1b50cd-9dff-4427-bd96-8b764e903141",
+            "id": "93",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(26) Put Ya - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=AegPN8vavG4"
+         }, {
+            "date_added": "13333440120714884",
+            "date_last_used": "0",
+            "guid": "37e35e2f-4afa-40f1-b587-6fb410449c47",
+            "id": "94",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "【ユメの喫茶店】 - ミツキヨ (Mitsukiyo) 【FULL ALBUM】 - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=INbxTEerZSk"
+         }, {
+            "date_added": "13333443581855451",
+            "date_last_used": "0",
+            "guid": "3eac9ff8-b02c-4d8f-81c3-8bd604aaf0b5",
+            "id": "95",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Vordt of the Boreal Valley - Motoi Sakuraba | Shazam",
+            "type": "url",
+            "url": "https://www.shazam.com/track/344884028/vordt-of-the-boreal-valley?referrer=browserextension"
+         }, {
+            "date_added": "13333443588343374",
+            "date_last_used": "0",
+            "guid": "94969cce-74dc-413f-b417-d65cae5d7967",
+            "id": "96",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(745) 『Vordt of the Boreal Valley』Dark Souls 3 OST | EPIC COVER - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=Qr-GVHKK_k0"
+         }, {
+            "date_added": "13333443818868725",
+            "date_last_used": "0",
+            "guid": "8978d447-d661-4b7b-95c1-4bbd682a4e40",
+            "id": "97",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(745) Prinz Eugen hace Chocolate - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/results?search_query=Prinz+Eugen+hace+Chocolate"
+         }, {
+            "date_added": "13333443823902251",
+            "date_last_used": "0",
+            "guid": "2312118a-3462-4289-9848-122d1d318435",
+            "id": "98",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(746) Bismarck - Azur Lane -THERE IT IS - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=CvwaD_C1KQ4"
+         }, {
+            "date_added": "13333443828094024",
+            "date_last_used": "0",
+            "guid": "833047c7-ef0d-4165-9fa2-b65489ce40f7",
+            "id": "99",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(747) ANIME MOMEN 🔥 | MALU-MALU SUKA😣 - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=381_FnGyJy0"
+         }, {
+            "date_added": "13333443908692298",
+            "date_last_used": "0",
+            "guid": "c0635d14-40d8-4150-adbb-c165ba0e51ce",
+            "id": "100",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "akkun no kanojo - Penelusuran Google",
+            "type": "url",
+            "url": "https://www.google.com/search?q=akkun+no+kanojo&rlz=1C1GCEA_enID1034ID1034&ie=UTF-8"
+         }, {
+            "date_added": "13333443913108341",
+            "date_last_used": "0",
+            "guid": "eedc2bdf-f9f5-4641-a5c4-801c05f4e895",
+            "id": "101",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Akkun to Kanojo (My Sweet Tyrant) - MyAnimeList.net",
+            "type": "url",
+            "url": "https://myanimelist.net/anime/36864/Akkun_to_Kanojo"
+         }, {
+            "date_added": "13333444850752731",
+            "date_last_used": "0",
+            "guid": "b242eb08-694c-4d2d-8261-5c7f92f17968",
+            "id": "102",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(750) THIS IS TOO CUTE TO LIVE!!! Azur Lane - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=YE9u0GYh0pk"
+         }, {
+            "date_added": "13333618161689720",
+            "date_last_used": "0",
+            "guid": "876fd5f1-e31f-4bb6-8501-51dc74f4345c",
+            "id": "103",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(47) \"Are you BOY or GIRL??\" Hilarious Reverse Trap's #1 || Anime Funny Compilation Moments - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=vEdq0jYp0CA"
+         }, {
+            "date_added": "13333702163224817",
+            "date_last_used": "0",
+            "guid": "3b8b081c-d372-4209-97be-e5d2a70e608e",
+            "id": "104",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(78) Mr. Beast Kicked Me Off His $50,000,000 Yacht - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/shorts/n1q9QOdPsEw"
+         }, {
+            "date_added": "13333772727437409",
+            "date_last_used": "0",
+            "guid": "7ccaf08b-0289-4f76-bfac-7f6fb1396860",
+            "id": "105",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "WebChatGPT: ChatGPT dengan akses internet - Chrome Webstore",
+            "type": "url",
+            "url": "https://chrome.google.com/webstore/detail/webchatgpt-chatgpt-with-i/lpfemeioodjbpieminkklglpmhlngfcn/related"
+         }, {
+            "date_added": "13333782900614677",
+            "date_last_used": "0",
+            "guid": "c7afd732-08b5-4439-b8f7-409555fcf37d",
+            "id": "106",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "https://www.muslimpro.com/id/find?country_code=ID&country_name=Indonesia&city_name=undefined&coordinates=-8.710364499999999,116.279495",
+            "type": "url",
+            "url": "https://www.muslimpro.com/id/find?country_code=ID&country_name=Indonesia&city_name=undefined&coordinates=-8.710364499999999,116.279495"
+         }, {
+            "date_added": "13333782888735584",
+            "date_last_used": "0",
+            "guid": "83605bdb-f80f-4820-906e-690ab1977dfd",
+            "id": "107",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Jam Berapa Sekarang? Cek Disini Pasti TEPAT.",
+            "type": "url",
+            "url": "https://jamberapasekarang.info/"
+         }, {
+            "date_added": "13333876811386867",
+            "date_last_used": "0",
+            "guid": "8ef0efa0-f973-4f09-a378-9ff76605fe5f",
+            "id": "108",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Technical Support for Disk Defrag",
+            "type": "url",
+            "url": "https://www.auslogics.com/en/support/product/disk-defrag/"
+         }, {
+            "date_added": "13333894708848579",
+            "date_last_used": "0",
+            "guid": "efed67b0-e35f-4a46-aafc-aaea4748772b",
+            "id": "109",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "ML LITE PATCH NOVARIA CUMA 200 MB BISA MAIN DENGAN LANCAR DAN SUDAH FULL EVENT + BISA GACHA - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=Hk7VU0f_2as&pp=ygUjY2FyYSBtZW5nZ3VuYWthbiBtb2JpbGUgbGVnZW5kIGxpdGU%3D"
+         }, {
+            "date_added": "13333894714152273",
+            "date_last_used": "0",
+            "guid": "8d67dc79-7b91-4a45-8357-24d693d53fea",
+            "id": "110",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "ML LITE PATCH NOVARIA CUMA 200 MB BISA MAIN DENGAN LANCAR DAN SUDAH FULL EVENT + BISA GACHA - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=Hk7VU0f_2as"
+         }, {
+            "date_added": "13333896307207493",
+            "date_last_used": "0",
+            "guid": "84225149-9822-4544-ae3e-0484af54693e",
+            "id": "111",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "2K Free download | Pure Black, black HD phone wallpaper | Pxfuel",
+            "type": "url",
+            "url": "https://www.pxfuel.com/en/desktop-wallpaper-fiqxk/download"
+         }, {
+            "date_added": "13334031678472040",
+            "date_last_used": "0",
+            "guid": "9d54ef71-a0bf-4814-a957-9f1a88032541",
+            "id": "112",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(679) Ketika Lu Ketemu Sama Teman Masa Lalu Lu😋 || Jedag Jedug Anime - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=gDjlm_0eOMM"
+         }, {
+            "date_added": "13334031685343083",
+            "date_last_used": "0",
+            "guid": "908e1330-f31a-4b83-a676-96e47f60ff0e",
+            "id": "113",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "shichisei no subaru - Penelusuran Google",
+            "type": "url",
+            "url": "https://www.google.com/search?q=shichisei+no+subaru&rlz=1C1GCEA_enID1034ID1034&ie=UTF-8"
+         }, {
+            "date_added": "13334031816053773",
+            "date_last_used": "0",
+            "guid": "d18015e9-e575-4c2c-9522-9da5ed1334aa",
+            "id": "114",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(680) Moment Badass🔥 Lord Izayoi😈🥶 || Jedag Jedug Anime || Mondaiji-Tachi✨ - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=KX-yi3Yy094"
+         }, {
+            "date_added": "13334032759656894",
+            "date_last_used": "0",
+            "guid": "d76d3ee5-f44b-4039-a4df-438d18b4e2a9",
+            "id": "115",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "GAWAT! 5 APP A.I INI BISA BIKIN MUSIK??? AUTO PENSIUN! | EGP Music & Tech News - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=voJFb98yOuE"
+         }, {
+            "date_added": "13334032829759285",
+            "date_last_used": "0",
+            "guid": "0e937812-4cfd-48b3-83b8-0c600764e247",
+            "id": "116",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(685) Kenapa Penyanyi Pakai Earphone Di Panggung? Ternyata Mendengarkan Ini - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=a28mAe-YIp4"
+         }, {
+            "date_added": "13334033961103291",
+            "date_last_used": "0",
+            "guid": "1d83d61a-c69c-4849-a62b-b1320b73c151",
+            "id": "117",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Stream Collapsing Kingdom [Epic Orchestral Battle Music] by Makai Symphony | Listen online for free on SoundCloud",
+            "type": "url",
+            "url": "https://soundcloud.com/makai-symphony/collapsing-kingdom-epic-orchestral-battle-music"
+         }, {
+            "date_added": "13334046294030222",
+            "date_last_used": "0",
+            "guid": "ba8b594a-d3d0-49af-822e-a7eac2cfdf97",
+            "id": "118",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(756) Orange by 7!! - Shigatsu wa Kimi no Uso ED 2 - Lyrics - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=JdSpuTi9d8A"
+         }, {
+            "date_added": "13334046441887647",
+            "date_last_used": "0",
+            "guid": "d964318d-82bd-47e1-88b5-63deeda2b348",
+            "id": "119",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(756) Your Lie in April OST - Again - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=uLFtmJlzKvE"
+         }, {
+            "date_added": "13334046460458949",
+            "date_last_used": "0",
+            "guid": "4552df01-a74a-4c30-821b-36fd4f1ca603",
+            "id": "120",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(755) 四月は君の嘘 / Your Lie in April OST (Piano) - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=VaFRVg7iktU"
+         }, {
+            "date_added": "13334046667179063",
+            "date_last_used": "0",
+            "guid": "c9b637ba-d827-43aa-8e58-6ed7fa6a4897",
+            "id": "121",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Hikaru Nara - Goose House [Romaji, Español, English, Color Coded] - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=cWtgGTCAjYY"
+         }, {
+            "date_added": "13334047451012965",
+            "date_last_used": "0",
+            "guid": "9e7ea357-8069-42d6-8b4e-2247324fe01d",
+            "id": "122",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(400) t+pazolite - They're again&again feat. Nanahira · info beatmap | osu!",
+            "type": "url",
+            "url": "https://osu.ppy.sh/beatmapsets/1775782#mania/3636282"
+         }, {
+            "date_added": "13334048057640676",
+            "date_last_used": "0",
+            "guid": "b50d2ff0-cdee-4d4b-8438-661613704d52",
+            "id": "123",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(400) Mikakuning! - Tomadoi Recipe (TV Size) · info beatmap | osu!",
+            "type": "url",
+            "url": "https://osu.ppy.sh/beatmapsets/2022698#mania/4212926"
+         }, {
+            "date_added": "13334048388557511",
+            "date_last_used": "0",
+            "guid": "a8846022-71e2-4ec7-83be-0625573fccc0",
+            "id": "124",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "mikakunin - Penelusuran Google",
+            "type": "url",
+            "url": "https://www.google.com/search?gs_ssp=eJzj4tLP1TeoMCzJzssyYPTizM3MTswuzcvMAwBW-ge7&q=mikakunin&rlz=1C1GCEA_enID1034ID1034&ie=UTF-8"
+         }, {
+            "date_added": "13334048393509258",
+            "date_last_used": "0",
+            "guid": "e3eecb62-a607-49f4-ab59-b78141b70801",
+            "id": "125",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(400) YUC'e - Future Cake · info beatmap | osu!",
+            "type": "url",
+            "url": "https://osu.ppy.sh/beatmapsets/2027607#mania/4225059"
+         }, {
+            "date_added": "13334209273912606",
+            "date_last_used": "0",
+            "guid": "33b437dd-916c-41fd-8549-9b503a2637b1",
+            "id": "126",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "The Daily Life of the Immortal King Season 1 + 2 + 3 Subtitle Indonesia | anoBoy",
+            "type": "url",
+            "url": "https://anoboy.pro/2022-08-the-daily-life-of-the-immortal-king-season-1-2-3/"
+         }, {
+            "date_added": "13334211052799935",
+            "date_last_used": "0",
+            "guid": "16917d3a-106c-449a-8c4c-628b56dca412",
+            "id": "127",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Download - MEGA",
+            "type": "url",
+            "url": "https://mega.nz/file/0gVW1QhL#mKP1tQuCULq_rUiTbaZJ__quL4qySNMw01v-TIo8E34"
+         }, {
+            "date_added": "13334235466917849",
+            "date_last_used": "0",
+            "guid": "14feef18-129e-44a3-ab39-ed075c8b06b1",
+            "id": "128",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "JAUHIN 5 Orang Ini Untuk SUKSES - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=HUhfZkbnWWQ"
+         }, {
+            "date_added": "13334316290884410",
+            "date_last_used": "0",
+            "guid": "eb563e75-4158-4364-88fc-3bcefb486647",
+            "id": "129",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(405) Kotone - Flash · info beatmap | osu!",
+            "type": "url",
+            "url": "https://osu.ppy.sh/beatmapsets/1440250#mania/2963176"
+         }, {
+            "date_added": "13334374730562618",
+            "date_last_used": "0",
+            "guid": "eda0a332-e101-4b81-9fe7-f92070949485",
+            "id": "130",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Tutorial Cara Membuka Zip yang Dipassword (100%% Ampuh)",
+            "type": "url",
+            "url": "https://www.nesabamedia.com/cara-membuka-zip-yang-dipassword/"
+         }, {
+            "date_added": "13334414015003800",
+            "date_last_used": "0",
+            "guid": "e015e9fe-6183-45e1-8016-b0de8f63e1ac",
+            "id": "131",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Open, decrypt, extract encrypted 7Z RAR ZIP files",
+            "type": "url",
+            "url": "https://peazip.github.io/extract-encrypted-files.html"
+         }, {
+            "date_added": "13334414018619507",
+            "date_last_used": "0",
+            "guid": "2c6204e4-d9e3-4460-be3a-26b7523260a7",
+            "id": "132",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Extract RAR Files Online (No limits!) - ezyZip",
+            "type": "url",
+            "url": "https://www.ezyzip.com/open-extract-rar-file-online.html"
+         }, {
+            "date_added": "13334505197648328",
+            "date_last_used": "0",
+            "guid": "d2b62648-1784-42af-a3db-922482bc2cd0",
+            "id": "133",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(140) JAGAT REVIEW BERANI BONGKAR HP & LAPTOP YANG GAK LAYAK DIBELI. AWAS NYESEL⚠️ - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=3jgaaMy5LYU"
+         }, {
+            "date_added": "13334560082156643",
+            "date_last_used": "0",
+            "guid": "d4923196-3724-4e8c-9073-cfa58bbbf56e",
+            "id": "134",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(620) DAPET 11,5 MILLIAR MAIN GAME DOANG⁉️- RRQ LEMON -Deddy Corbuzier Podcast - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=UR6IgXRNsvE"
+         }, {
+            "date_added": "13334560833334093",
+            "date_last_used": "0",
+            "guid": "b61cb43c-f87a-482b-b65c-6cfd6e181365",
+            "id": "135",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(620) Speedrun Tercepat Di Menkrep - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/shorts/siBQvfhTttE"
+         }, {
+            "date_added": "13334560942808020",
+            "date_last_used": "0",
+            "guid": "93e5d6f0-3cee-4171-87c9-334a4d049062",
+            "id": "136",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(625) KETIKA GEBETAN LO DIPEPETIN CEWEK LAIN, JJ ANIME🎟️ - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=XRAGM4W8ckg"
+         }, {
+            "date_added": "13334561049117175",
+            "date_last_used": "0",
+            "guid": "53393619-8d80-44c1-bd92-0f35f014db71",
+            "id": "137",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(625) Hero Mobile Legends Ini Mengubah Hidup Gue...! - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=8rApLFxtWQM"
+         }, {
+            "date_added": "13334588107600930",
+            "date_last_used": "0",
+            "guid": "a30b7eec-c72a-42f0-ac31-4e47d0c2e035",
+            "id": "138",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(150) Umur 20-an Mesti Tahu 5 Hal Ini : My 3.2M Views Bukatalks - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=zrxA8BdaqkM"
+         }, {
+            "date_added": "13334713450810422",
+            "date_last_used": "0",
+            "guid": "6f420a93-6aba-426b-9ea5-3575d2f37910",
+            "id": "139",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "cloudflare dns ipv6 - Penelusuran Google",
+            "type": "url",
+            "url": "https://www.google.com/search?q=cloudflare+dns+ipv6&rlz=1C1GCEA_enID1034ID1034&sxsrf=AB5stBgrI31wDjaH_9cuZ4Q2bcHfOlhj2w%3A1690236184194&gs_lp=Egxnd3Mtd2l6LXNlcnAiEWNsb3VkZmxhcmUgZG5zIGlwKgIIADIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywFIixFQtQNYmgpwAXgBkAEAmAGvAqABpwSqAQcxLjEuMC4xuAEByAEA-AEBwgIKEAAYRxjWBBiwA8ICChAAGIoFGLADGEPCAgcQABiKBRhDwgIFEAAYgATiAwQYACBBiAYBkAYK&sclient=gws-wiz-serp"
+         }, {
+            "date_added": "13334717101102879",
+            "date_last_used": "0",
+            "guid": "e626cc73-3f5d-439c-a16f-1a934d539d1f",
+            "id": "140",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(231) Perbedaan Jurusan Ilmu Komputer, Teknik Informatika, Sistem Informasi dan Teknik Komputer - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=3aybg8unILo"
+         }, {
+            "date_added": "13334801037693818",
+            "date_last_used": "0",
+            "guid": "f7347800-14e7-4614-bb56-f7c516e63f1d",
+            "id": "141",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "kalender tahun 2023, hari libur nasional dan cuti bersama",
+            "type": "url",
+            "url": "https://tanggalan.com/"
+         }, {
+            "date_added": "13334817810346464",
+            "date_last_used": "0",
+            "guid": "d5d89264-76ff-4598-a2df-cb612c8afa7c",
+            "id": "142",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Jual Windows 11 Pro | Windows 11 Home | Office 2021 | Office 365 PRO PLUS | ORIGINAL | Shopee Indonesia",
+            "type": "url",
+            "url": "https://shopee.co.id/Windows-11-Pro-Windows-11-Home-Office-2021-Office-365-PRO-PLUS-ORIGINAL-i.42863376.16040563455?sp_atk=1aa83593-a7d6-4877-acec-823ff53a45b9&xptdk=1aa83593-a7d6-4877-acec-823ff53a45b9"
+         }, {
+            "date_added": "13334817842342766",
+            "date_last_used": "0",
+            "guid": "0084b0a7-ea3e-451e-8c84-45de32868b13",
+            "id": "143",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "[Asmr] 1시간 잔잔한 힐링 음악 | 마인크래프트 | 빗소리 | 수면 유도음악 | 마음이 편안해지는 음악 | - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=qWSMNvVG2rM"
+         }, {
+            "date_added": "13334827778544370",
+            "date_last_used": "0",
+            "guid": "cad6f8e7-067e-484b-8b27-720c4d5a0f1c",
+            "id": "144",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Minecraft Soundtrack - All Songs!! - playlist by maka_97 | Spotify",
+            "type": "url",
+            "url": "https://open.spotify.com/playlist/6Eay2pwweFLJ3c0NS7L53b?flow_id=fd4729d4-ec1e-44a5-94cc-6f5eabdeb599%3A1690371546&flow_ctx=4f0283d8-466b-47b2-858b-2b4afd4369ee%3A1690371507%23login&creation_point=https%3A%2F%2Fopen.spotify.com%2Fplaylist%2F6Eay2pwweFLJ3c0NS7L53b"
+         }, {
+            "date_added": "13334827983975314",
+            "date_last_used": "0",
+            "guid": "bef4c7a2-e088-4906-ad8f-161f13fe3890",
+            "id": "145",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(109) Mice On Venus - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=T5-faDLv1Vs"
+         }, {
+            "date_added": "13334829080012072",
+            "date_last_used": "0",
+            "guid": "a359a411-0153-4207-bfc0-cfd681015f40",
+            "id": "146",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(119) when you listen to sweden by C418 but you aren't a kid anymore - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=_47BQTM6MeA"
+         }, {
+            "date_added": "13334829296121493",
+            "date_last_used": "0",
+            "guid": "9a7a7308-2552-4703-9b95-95911de7f720",
+            "id": "147",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(120) C418 - Minecraft Music Slowed Down 🎵 With Rain 🌧️ - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=vZeWxNnL8bc"
+         }, {
+            "date_added": "13334829829390632",
+            "date_last_used": "0",
+            "guid": "f3518882-89f6-4163-9fd0-254d54309fdf",
+            "id": "148",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(122) Banyak Orang pengen saya Bahas Keyboard Murah ini .. - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=75uB2pJhJXY"
+         }, {
+            "date_added": "13334829910086851",
+            "date_last_used": "0",
+            "guid": "024ec93f-ab73-4008-b192-9e284da6775e",
+            "id": "149",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(128) cara memperbaiki keyboard mechanical stabilizer - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/results?search_query=cara+memperbaiki+keyboard+mechanical+stabilizer"
+         }, {
+            "date_added": "13334830177956899",
+            "date_last_used": "0",
+            "guid": "5e963978-ec1b-4b27-a342-5bf15fa19699",
+            "id": "150",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(128) Tutorial Bongkar, Tuning, Lubing, dan Holee Mod Stabilizer! - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=Vk-_gvqgo5U"
+         }, {
+            "date_added": "13334830598449004",
+            "date_last_used": "0",
+            "guid": "3b53baeb-a624-4a8c-a377-ad770ca65e0c",
+            "id": "151",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(131) How to Lube and Tune Stabilizers - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=usNx1_d0HbQ"
+         }, {
+            "date_added": "13334908713279707",
+            "date_last_used": "0",
+            "guid": "0dd7df6e-b21e-4f4e-83c0-b5e826dc5e3e",
+            "id": "152",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "all switch mechanical keyboard - Penelusuran Google",
+            "type": "url",
+            "url": "https://www.google.com/search?q=all+switch+mechanical+keyboard&rlz=1C1GCEA_enID1034ID1034&sxsrf=AB5stBhczz9jIdfbFrXMw3v43lBoGAibVA%3A1690352502194&ved=0ahUKEwjk0cDj3auAAxVQ1TgGHdIcC6YQ4dUDCA4&gs_lp=Egxnd3Mtd2l6LXNlcnAiHmFsbCBzd2l0Y2ggbWVjaGFuaWNhbCBrZXlib2FyZDIIECEYoAEYwwQyCBAhGKABGMMEMggQIRigARjDBEifDVAAWL8DcAB4AZABAJgB2gKgAZMHqgEHMC4yLjEuMbgBDMgBAPgBAcICBxAjGLACGCfCAgcQABgNGIAEwgIGEAAYBxgewgIIEAAYCBgHGB7iAwQYACBBiAYB&sclient=gws-wiz-serp"
+         }, {
+            "date_added": "13334908720043593",
+            "date_last_used": "0",
+            "guid": "09dd823e-dec0-44a5-8149-209cfc9e8528",
+            "id": "153",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Mechanical Keyboard Switches",
+            "type": "url",
+            "url": "https://mechanicalkeyboards.com/switches/"
+         }, {
+            "date_added": "13334908725155188",
+            "date_last_used": "0",
+            "guid": "59cffac2-98de-467e-84b2-f95aac9eeb65",
+            "id": "154",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "krytox 205g0 - Penelusuran Google",
+            "type": "url",
+            "url": "https://www.google.com/search?q=krytox+205g0&rlz=1C1GCEA_enID1034ID1034&ie=UTF-8"
+         }, {
+            "date_added": "13334908729291893",
+            "date_last_used": "0",
+            "guid": "e192920c-af8f-4660-81d3-f93388323ba2",
+            "id": "155",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "permatex 22058 - Penelusuran Google",
+            "type": "url",
+            "url": "https://www.google.com/search?q=permatex+22058&rlz=1C1GCEA_enID1034ID1034&ie=UTF-8"
+         }, {
+            "date_added": "13334912229551258",
+            "date_last_used": "0",
+            "guid": "4c9a3ccb-42d6-4512-86ec-0c1ea7271af0",
+            "id": "156",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(91) INTERNET BENER-BENER UDAH DILUAR KENDALI KITA - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=vX0ZFy7u3y4"
+         }, {
+            "date_added": "13334931400092516",
+            "date_last_used": "13334931467951184",
+            "guid": "592935b1-f062-475e-ad59-1f47793d8f6a",
+            "id": "157",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Stream Strike Force Heroes 2 music: Menu theme (Symphony of Specters) by Lord Harold | Listen online for free on SoundCloud",
+            "type": "url",
+            "url": "https://m.soundcloud.com/user-87525484-396884578/strike-force-heroes-2-music-menu-theme-symphony-of-specters"
+         }, {
+            "date_added": "13334931538147375",
+            "date_last_used": "0",
+            "guid": "84539cab-33d8-47c1-918e-750dbc6ae374",
+            "id": "158",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Strike Force Heroes 2 music: Menu theme (Symphony of Specters) by Lord Harold",
+            "type": "url",
+            "url": "https://soundcloud.com/user-87525484-396884578/strike-force-heroes-2-music-menu-theme-symphony-of-specters"
+         }, {
+            "date_added": "13334931569465258",
+            "date_last_used": "0",
+            "guid": "3d137d31-f3c5-45c5-9aba-d2eab4297c90",
+            "id": "159",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "strike force heroes 2 epic cinematic trailer music main menu theme - Penelusuran Google",
+            "type": "url",
+            "url": "https://www.google.com/search?q=strike+force+heroes+2+epic+cinematic+trailer+music+main+menu+theme&client=ms-android-samsung-gj-rev1&sxsrf=AB5stBjArUFEC2lVUrNW5ftIi2lqSW0g6A%3A1690457683457&ei=U1bCZPXGG7Hb4-EPhJq9mAM&oq=strike+force+heroes+2+epic+cinematic+trailer+music+main+menu+theme&gs_lp=EhNtb2JpbGUtZ3dzLXdpei1zZXJwIkJzdHJpa2UgZm9yY2UgaGVyb2VzIDIgZXBpYyBjaW5lbWF0aWMgdHJhaWxlciBtdXNpYyBtYWluIG1lbnUgdGhlbWVIkElQzS1Y4kdwAHgAkAEAmAH7AaAB9haqAQYyLjEzLjO4AQPIAQD4AQHCAgQQIxgnwgIFECEYoAHiAwQYACBBiAYB&sclient=mobile-gws-wiz-serp"
+         }, {
+            "date_added": "13335019669770926",
+            "date_last_used": "0",
+            "guid": "c3126eed-983b-4b8c-a75a-5552cabf6bd0",
+            "id": "160",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(318) Minecraft will NEVER look the same again... 👀 - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=jbkivpOujXI"
+         }, {
+            "date_added": "13335020489094164",
+            "date_last_used": "0",
+            "guid": "85c66b1f-e023-462a-80f9-ebabe233fccd",
+            "id": "161",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "“Starting at” is the Biggest Lie in Tech - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=cLGcGnGJvL0"
+         }, {
+            "date_added": "13335020618516442",
+            "date_last_used": "0",
+            "guid": "6dc3d24d-df35-4315-9268-a6493cd819e7",
+            "id": "162",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(343) Mudah Dipakai & Lengkap! Cocok utk Kreator & Traveling: REVIEW Canon EOS R50 - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=kjgIsnwc57U"
+         }, {
+            "date_added": "13335021120543827",
+            "date_last_used": "0",
+            "guid": "bba719b8-7522-4a58-b642-f577fd35b624",
+            "id": "163",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(354) Inilah Penulis Cerita Terlaris di Indonesia... - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=V9gE8kf6bg4"
+         }, {
+            "date_added": "13335021189273900",
+            "date_last_used": "0",
+            "guid": "7c679c6f-43a9-42c3-8cc8-cc178e1ddb01",
+            "id": "164",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(344) I used a MAC for 30 days, and I’m glad it’s over - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=0saKpm5g8iU"
+         }, {
+            "date_added": "13335068179758793",
+            "date_last_used": "0",
+            "guid": "75990100-acbb-402b-a8cd-b58f2917e825",
+            "id": "165",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "List of Nvidia GeForce MX graphics cards - GadgetVersus",
+            "type": "url",
+            "url": "https://gadgetversus.com/graphics-card/nvidia-geforce-mx-graphics-cards-list/"
+         }, {
+            "date_added": "13335068347015692",
+            "date_last_used": "0",
+            "guid": "9fd57901-05d4-44f0-a51a-d75f506779b0",
+            "id": "166",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "versus com - Penelusuran Google",
+            "type": "url",
+            "url": "https://www.google.com/search?q=versus+com&oq=versus+com&aqs=chrome..69i57j0i512l2j0i67i650j0i512j5i10i44j0i67i650j0i131i433i512j0i512l2.2355j0j7&client=ms-android-samsung-gj-rev1&sourceid=chrome-mobile&ie=UTF-8"
+         }, {
+            "date_added": "13335372212217678",
+            "date_last_used": "0",
+            "guid": "85fa8fab-ce08-4e22-a676-0fad9837cfa2",
+            "id": "167",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "cFosSpeed.12.00.2512.rar - Mirrored.to - Mirrorcreator - Upload files to multiple hosts",
+            "type": "url",
+            "url": "https://www.mirrored.to/files/PNNI8YNP/cFosSpeed.12.00.2512.rar_links"
+         }, {
+            "date_added": "13335404787941616",
+            "date_last_used": "0",
+            "guid": "bacd9c5a-422d-450b-8f8f-ba1e4f295dd0",
+            "id": "168",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "How to Install Multiple Bootable Operating Systems on a USB Stick",
+            "type": "url",
+            "url": "https://www.makeuseof.com/tag/how-to-install-multiple-bootable-operating-systems-on-one-usb-stick/"
+         }, {
+            "date_added": "13335404904397278",
+            "date_last_used": "0",
+            "guid": "9980618a-63ae-43b6-a422-bb2251e25810",
+            "id": "169",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Alien Shooter 2 The Legend v1.3.2 – Skidrow & Reloaded Games",
+            "type": "url",
+            "url": "https://www.skidrowreloaded.com/alien-shooter-2-the-legend-v1-3-2/"
+         }, {
+            "date_added": "13335406251996846",
+            "date_last_used": "0",
+            "guid": "2933f166-b483-4bbb-9759-6f6895731b1b",
+            "id": "170",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Alien Shooter 2 - New Era Free Download (v1.0.1) » STEAMUNLOCKED",
+            "type": "url",
+            "url": "https://steamunlocked.net/1-alien-shooter-2-new-era-free-download/"
+         }, {
+            "date_added": "13335406255671901",
+            "date_last_used": "0",
+            "guid": "8a221996-45e8-4339-b5c0-386d78830b16",
+            "id": "171",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Bloons TD 5 Free Download (v4.0) » STEAMUNLOCKED",
+            "type": "url",
+            "url": "https://steamunlocked.net/bloons-td-5-free-download/"
+         }, {
+            "date_added": "13335407646471544",
+            "date_last_used": "0",
+            "guid": "1777e63b-c887-4d51-8866-39fe0922c267",
+            "id": "172",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "DeskPins : Elias Fotinis",
+            "type": "url",
+            "url": "https://efotinis.neocities.org/deskpins/"
+         }, {
+            "date_added": "13335408803391427",
+            "date_last_used": "0",
+            "guid": "a62324c0-4c66-4646-b4ff-b8b6a0b6bdaa",
+            "id": "173",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(643) Kenapa Guru Indonesia Digaji Rendah? - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=sPbADTfwzwQ"
+         }, {
+            "date_added": "13335408874556250",
+            "date_last_used": "0",
+            "guid": "2aae8a6b-8052-4c2f-9baf-d1a30b1cc4d8",
+            "id": "174",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(643) Perintah-Perintah Dasar di Sistem Linux [PART 1] // #TentangLinux - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=hCrXhEslPP4"
+         }, {
+            "date_added": "13335409317549606",
+            "date_last_used": "0",
+            "guid": "a7ab2b42-e8d8-4386-8c6b-3c1ab2651e48",
+            "id": "175",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(644) I Tested Malware Against EVERY Windows - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=dmTQ2rrsEHQ"
+         }, {
+            "date_added": "13335493292882278",
+            "date_last_used": "0",
+            "guid": "22df9758-4a5f-44d5-bbfa-a56b2996ac48",
+            "id": "176",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Server Monitoring // Prometheus and Grafana Tutorial - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=9TJx7QTrTyo"
+         }, {
+            "date_added": "13335506862528092",
+            "date_last_used": "0",
+            "guid": "492f3158-fe43-42c7-bc1c-bcad9b4a53b5",
+            "id": "177",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "25 VS Code Productivity Tips and Speed Hacks - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=ifTF3ags0XI"
+         }, {
+            "date_added": "13335530748662904",
+            "date_last_used": "0",
+            "guid": "6fa21455-13bf-4181-8dff-2f8aa940ffd6",
+            "id": "178",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "GitHub - ThatRozebudDude/FPS-Plus-Public",
+            "type": "url",
+            "url": "https://github.com/ThatRozebudDude/FPS-Plus-Public"
+         }, {
+            "date_added": "13335532330604515",
+            "date_last_used": "0",
+            "guid": "fdde9f4b-3dda-415f-9153-1cc0e5afb896",
+            "id": "179",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Download : FileDaddy [Friday Night Funkin'] [Modding Tools]",
+            "type": "url",
+            "url": "https://gamebanana.com/tools/download/7015#FileInfo_657993"
+         }, {
+            "date_added": "13335685732068738",
+            "date_last_used": "0",
+            "guid": "89580663-77c1-48f7-a448-0e3a19f26d10",
+            "id": "180",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Mbit to MB Conversion Megabits to Megabytes Calculator",
+            "type": "url",
+            "url": "https://www.gbmb.org/mbit-to-mb"
+         }, {
+            "date_added": "13335776371044039",
+            "date_last_used": "0",
+            "guid": "df547a81-b787-48b2-b0f1-876939f7b8d1",
+            "id": "181",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Zombie Parking on Steam",
+            "type": "url",
+            "url": "https://store.steampowered.com/app/449090/Zombie_Parking/"
+         }, {
+            "date_added": "13335776387155674",
+            "date_last_used": "0",
+            "guid": "7a5e6ac0-7f90-4020-9c6d-369a02c75952",
+            "id": "182",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "SAS: Zombie Assault 4 on Steam",
+            "type": "url",
+            "url": "https://store.steampowered.com/app/678800/SAS_Zombie_Assault_4/"
+         }, {
+            "date_added": "13335776449263427",
+            "date_last_used": "0",
+            "guid": "282b6064-6852-4a8e-b1f2-9a2e01699e0f",
+            "id": "183",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "7 Days to Die on Steam",
+            "type": "url",
+            "url": "https://store.steampowered.com/app/251570/7_Days_to_Die/"
+         }, {
+            "date_added": "13335776549360135",
+            "date_last_used": "0",
+            "guid": "360ddc17-4df5-4e26-b24c-0bb4c1982b52",
+            "id": "184",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Zombie horde on Steam",
+            "type": "url",
+            "url": "https://store.steampowered.com/app/1163320/Zombie_horde/"
+         }, {
+            "date_added": "13335776633821311",
+            "date_last_used": "0",
+            "guid": "545fc91a-cb04-40f6-9a8a-52b9ecbd22b5",
+            "id": "185",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Zombie Shooting Star: ARCADE on Steam",
+            "type": "url",
+            "url": "https://store.steampowered.com/app/2210710/Zombie_Shooting_Star_ARCADE/"
+         }, {
+            "date_added": "13335856454517142",
+            "date_last_used": "0",
+            "guid": "22e51e7b-f78e-4314-afb3-7b805eacf449",
+            "id": "186",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "PMB - Universitas Bumigora Mataram",
+            "type": "url",
+            "url": "http://pmb.universitasbumigora.ac.id/admin/index.php/maba"
+         }, {
+            "date_added": "13335860846762903",
+            "date_last_used": "0",
+            "guid": "8a944d7d-a21a-40d3-abed-c51ec829a3a9",
+            "id": "187",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "GitHub - ChrisTitusTech/winutil: Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates",
+            "type": "url",
+            "url": "https://github.com/ChrisTitusTech/winutil"
+         }, {
+            "date_added": "13335936397290766",
+            "date_last_used": "0",
+            "guid": "ee066e53-8fa9-4a33-8226-95b378731ad6",
+            "id": "188",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Install and uninstall software with Windows Package Manager - Training | Microsoft Learn",
+            "type": "url",
+            "url": "https://learn.microsoft.com/en-us/training/modules/explore-windows-package-manager-tool/3-install-uninstall-software"
+         }, {
+            "date_added": "13335936404213623",
+            "date_last_used": "0",
+            "guid": "63c3e469-7817-4360-9a1f-dec72fd7aa7e",
+            "id": "189",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Releases · microsoft/winget-cli",
+            "type": "url",
+            "url": "https://github.com/microsoft/winget-cli/releases"
+         }, {
+            "date_added": "13335936440333680",
+            "date_last_used": "0",
+            "guid": "35d42eb5-87eb-45b8-b363-e880dd4ae280",
+            "id": "190",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "GitHub - microsoft/winget-cli: WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).",
+            "type": "url",
+            "url": "https://github.com/microsoft/winget-cli/"
+         }, {
+            "date_added": "13335936992609284",
+            "date_last_used": "0",
+            "guid": "eef53a6e-3fc9-48b0-ad45-673cc3f53573",
+            "id": "191",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "winget-cli/doc/windows/package-manager/winget/upgrade.md at master · microsoft/winget-cli · GitHub",
+            "type": "url",
+            "url": "https://github.com/microsoft/winget-cli/blob/master/doc/windows/package-manager/winget/upgrade.md"
+         }, {
+            "date_added": "13337160891696135",
+            "date_last_used": "0",
+            "guid": "6207c60b-e4e4-4618-8ee7-b010eb1c9add",
+            "id": "192",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "10 Best Antivirus Software (August 2023) – Forbes Advisor",
+            "type": "url",
+            "url": "https://www.forbes.com/advisor/business/software/best-antivirus-software/"
+         }, {
+            "date_added": "13337363853015660",
+            "date_last_used": "0",
+            "guid": "9b63f9bd-f0ca-464a-a417-701c24a3eaae",
+            "id": "193",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Need For Speed Most Wanted Open Drive to the old bridge | NFSCars",
+            "type": "url",
+            "url": "https://www.nfscars.net/need-for-speed-most-wanted/7/files/view/12584/"
+         }, {
+            "date_added": "13339220301555193",
+            "date_last_used": "0",
+            "guid": "74b8e055-cee8-48e9-986a-58ed1942f2ef",
+            "id": "194",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Edison | Evoke",
+            "type": "url",
+            "url": "https://evokehop.bandcamp.com/track/edison"
+         } ],
+         "date_added": "13360113786882659",
+         "date_last_used": "0",
+         "date_modified": "13339220301555193",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

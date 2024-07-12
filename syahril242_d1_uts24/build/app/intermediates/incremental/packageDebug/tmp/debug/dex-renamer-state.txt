@@ -1,0 +1,4 @@
+#Sat May 04 08:01:05 SGT 2024
+base.0=D\:\\UTS242_d1\\syahril242_d1_uts24\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

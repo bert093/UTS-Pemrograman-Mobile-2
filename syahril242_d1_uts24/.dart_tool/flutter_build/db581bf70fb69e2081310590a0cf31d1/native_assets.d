@@ -1,0 +1,1 @@
+ D:\\UTS242_d1\\syahril242_d1_uts24\\.dart_tool\\flutter_build\\db581bf70fb69e2081310590a0cf31d1\\native_assets.yaml: 
